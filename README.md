@@ -31,8 +31,17 @@ This repository is having all the code with json files for working an Inventory 
 ![add product ](https://user-images.githubusercontent.com/89854672/132230191-a6aa0de4-a082-41ed-8526-de03d59d9f6a.png)
 
 ## Then press 0 showing all product present in inventory.
+![show list](https://user-images.githubusercontent.com/89854672/132230385-556fe204-6cea-4aa7-a9c6-50ce12a39833.png)
+
 ## If run Purchasing_Product.ipynb showing.
+![purchage](https://user-images.githubusercontent.com/89854672/132230528-e691edac-7b4b-47aa-8822-d74408078483.png)
+
 ## Then press 0 showing all product present in inventory.
+![add product ](https://user-images.githubusercontent.com/89854672/132230191-a6aa0de4-a082-41ed-8526-de03d59d9f6a.png)
+
 ## Then press 1 generate bill and bill no.
+![bill generate](https://user-images.githubusercontent.com/89854672/132230605-15d766ae-06fa-4cc9-9167-6554c8b4422f.png)
+
 ## Then press 2 check bill through bill no.
+![checking bill](https://user-images.githubusercontent.com/89854672/132230648-e673c219-0a02-405c-ab73-60bff04783d4.png)
 
