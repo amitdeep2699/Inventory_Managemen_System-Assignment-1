@@ -28,6 +28,8 @@ This repository is having all the code with json files for working an Inventory 
 
 # Images
 ## First run Adding_new_product.ipynb showing.
+![add product ](https://user-images.githubusercontent.com/89854672/132230191-a6aa0de4-a082-41ed-8526-de03d59d9f6a.png)
+
 ## Then press 0 showing all product present in inventory.
 ## If run Purchasing_Product.ipynb showing.
 ## Then press 0 showing all product present in inventory.
