@@ -25,3 +25,12 @@ This repository is having all the code with json files for working an Inventory 
 8.Also delete bill through Bill no.<br>
 
 ## All validation have been taken care.
+
+# Images
+## First run Adding_new_product.ipynb showing.
+## Then press 0 showing all product present in inventory.
+## If run Purchasing_Product.ipynb showing.
+## Then press 0 showing all product present in inventory.
+## Then press 1 generate bill and bill no.
+## Then press 2 check bill through bill no.
+
